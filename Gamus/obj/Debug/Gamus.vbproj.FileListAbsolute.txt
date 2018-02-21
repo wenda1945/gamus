@@ -1,0 +1,42 @@
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\bin\Debug\Gamus.exe.config
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\bin\Debug\Gamus.exe
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\bin\Debug\Gamus.pdb
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\bin\Debug\Gamus.xml
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.vbprojResolveAssemblyReference.cache
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.Resources.resources
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.vbproj.GenerateResource.Cache
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.exe
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.xml
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.pdb
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.SplBanner.resources
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.FrmKamus.resources
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.FrmMenu.resources
+F:\Google Drive\STTS\Semester 4\Aplikasi .NET Programming\Gamus\Gamus\obj\Debug\Gamus.FrmGame.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.exe.config
+C:\Public Document\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.exe
+C:\Public Document\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.pdb
+C:\Public Document\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.xml
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.vbprojResolveAssemblyReference.cache
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmGame.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmKamus.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmMenu.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.Resources.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.SplBanner.resources
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.vbproj.GenerateResource.Cache
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.exe
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.xml
+C:\Public Document\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.pdb
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.exe.config
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.exe
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.pdb
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\bin\Debug\Gamus.xml
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.vbprojResolveAssemblyReference.cache
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmGame.resources
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmKamus.resources
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.FrmMenu.resources
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.Resources.resources
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.SplBanner.resources
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.vbproj.GenerateResource.Cache
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.exe
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.xml
+C:\Document\Tugas4\AppNet\v0\Gamus\Gamus\obj\Debug\Gamus.pdb
